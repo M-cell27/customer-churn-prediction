@@ -37,9 +37,7 @@ By following the steps outlined in the project and utilizing the provided resour
 The repository is organized as follows:
 
 - `data/`: Contains the dataset used for the project (e.g., `Telco_Customer_Churn.csv`).
-- `notebooks/`: Jupyter notebooks with the code for data preprocessing, model training, evaluation, and hyperparameter tuning.
-- `models/`: Saved models or model artifacts generated during the project.
-- `results/`: Generated results and evaluation metrics (e.g., CSV files, plots, etc.).
+- `notebooks/`: Jupyter notebooks with the code for data preprocessing, model training, evaluation, and hyperparameter tuning (e.g., `Customer_Churn_Prediction.ipynb`.
 - `README.md`: This README file providing an overview of the project and repository.
 - `requirements.txt`: Lists the required Python libraries and dependencies for running the code.
 
